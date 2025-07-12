@@ -55,7 +55,7 @@ A data-driven business analysis project to assess market readiness and product s
 | `population_projection.csv` | Estimated population per city/state |
 
 📌 *If these are too large to view here, you can download all datasets from:*  
-**[📥 Google Drive Folder (Dataset Link - https://dataful.in/challenges/)](#)**
+**https://dataful.in/challenges/)**
 
 ---
 
